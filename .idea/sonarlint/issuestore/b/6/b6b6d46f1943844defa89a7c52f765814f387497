@@ -1,0 +1,8 @@
+
+cpython:S100¨"KRename method "POST" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãœş
+hpython:S100¡"KRename method "DATA" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ã¹Åüÿÿÿÿ
+python:S1845¡"aRename method "DATA" to prevent any misunderstanding/clash with method "data" defined on line 210(²ã¹Åüÿÿÿÿ
+python:S1845º"qRename method "QUERY_PARAMS" to prevent any misunderstanding/clash with method "query_params" defined on line 203(ÓÓ¿’ıÿÿÿÿ
+ipython:S100±"LRename method "FILES" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷÷Îúıÿÿÿÿ
+ppython:S100º"SRename method "QUERY_PARAMS" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÓÓ¿’ıÿÿÿÿ
+kpython:S101%"TRename class "override_method" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(åÎ‘Ì
